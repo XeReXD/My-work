@@ -1,0 +1,86 @@
+body{ 
+    background-color: lightgray; 
+} 
+.Заголовок{ 
+    text-align: center; 
+    font-size: 40px; 
+} 
+.Подзаголовок{ 
+    text-align: center; 
+    font-size: 20px; 
+} 
+.Контейнер1{ 
+    width: 1200px; 
+    height: 380px; 
+    border-radius: 10%; 
+    background-color: rgb(245, 245, 245); 
+    display: flex; 
+    margin: 10px auto; 
+    flex-wrap: wrap; 
+    padding: 20px; 
+} 
+.q1{ 
+    width: 100%; 
+    font-size: 30px;     
+} 
+.e1 , .e2, .e3, .e4, .e5{ 
+    width: 30%; 
+    background-color: white; 
+    box-shadow: 4px 6px 25px #d0d0d0; 
+    border-radius: 8px; 
+    padding: 10px; 
+    margin: 10px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;  
+} 
+.Контейнер2{ 
+    width: 1200px; 
+    height: 380px; 
+    border-radius: 10%; 
+    background-color: rgb(245, 245, 245); 
+    display: flex; 
+    margin: 10px auto; 
+    flex-wrap: wrap; 
+    padding: 20px; 
+} 
+.q2{ 
+    width: 100%; 
+    font-size: 30px;     
+} 
+.r1 , .r2, .r3, .r4, .r5{ 
+    width: 30%; 
+    background-color: white; 
+    box-shadow: 4px 6px 25px #d0d0d0; 
+    border-radius: 8px; 
+    padding: 10px; 
+    margin: 10px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;  
+} 
+.Контейнер3{ 
+    width: 1200px; 
+    height: 380px; 
+    border-radius: 10%; 
+    background-color: rgb(245, 245, 245); 
+    display: flex; 
+    margin: 10px auto; 
+    flex-wrap: wrap; 
+    padding: 20px; 
+} 
+.q3{ 
+    width: 100%; 
+    font-size: 30px;     
+} 
+.t1 , .t2, .t3, .t4{ 
+    width: 30%; 
+    background-color: white; 
+    box-shadow: 4px 6px 25px #d0d0d0; 
+    border-radius: 8px; 
+    padding: 10px; 
+    margin: 10px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;  
+}
